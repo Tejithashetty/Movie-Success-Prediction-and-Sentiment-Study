@@ -60,4 +60,4 @@ We use Python, NLTK (VADER), and machine learning models to gain insights into w
 - **Sentiment Trends:**  
   Some genres like *Drama* and *Action* tend to have more positive overview sentiments.
 - **Model Accuracy:**  
-  > (Insert your final accuracy score here after training)
+  > Accuracy score : 1.0
